@@ -1,4 +1,4 @@
-import SecHead from './secHead';
+import SecHead from './SecHead';
 import Container from './Container';
 import ThirdHead from './ThirdHead';
 import { IoIosPhonePortrait } from "react-icons/io";
