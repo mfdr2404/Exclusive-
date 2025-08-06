@@ -1,6 +1,6 @@
 import React from 'react'
 import Container from './Container';
-import SecHead from './secHead';
+import SecHead from './SecHead';
 import Card from './Card';
 import Coat from '../assets/coat.png';
 import Bag from '../assets/bag.png';

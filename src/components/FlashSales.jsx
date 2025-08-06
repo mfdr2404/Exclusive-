@@ -1,6 +1,6 @@
 import Container from './Container';
 import Counter from './Counter';
-import SecHead from './secHead';
+import SecHead from './SecHead';
 import Card from './Card';
 import Gamepad from '../assets/gamepad.png';
 import Keyboard from '../assets/keyboard.png';

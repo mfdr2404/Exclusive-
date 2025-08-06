@@ -1,6 +1,6 @@
 import React from 'react'
 import Container from './Container';
-import SecHead from './secHead';
+import SecHead from './SecHead';
 import PlaystationImg from '../assets/playstation.png';
 import WomenImg from '../assets/women.png';
 import SpeekersImg from '../assets/speeker.png';

@@ -1,6 +1,6 @@
 import React from 'react'
 import Container from './Container';
-import SecHead from './secHead';
+import SecHead from './SecHead';
 import Card from './Card';
 import DogFoodimg from '../assets/Dogfood.png'
 import Dslrimg from '../assets/Dslr.png'
